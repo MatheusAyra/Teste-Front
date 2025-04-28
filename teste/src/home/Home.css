@@ -327,7 +327,7 @@ header {
   .accordion-conteudo {
     max-height: 0;
     overflow: hidden;
-    transition: max-height 0.1s ease;
+    transition: max-height 1.5s ease;
     padding: 0 1rem;
   }
 
